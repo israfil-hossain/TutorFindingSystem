@@ -1,0 +1,14 @@
+ex_id,exam_name
+1,ms_office
+2,Web design
+3,SQL Server
+4,C Programming
+5,C++ Programming
+6,Java
+7,Python
+8,Flutter
+9,C# Programming
+10,Computer Network
+11,Computer Security
+12,CCNA
+13,CEH v-11

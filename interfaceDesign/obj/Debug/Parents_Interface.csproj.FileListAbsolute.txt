@@ -1,0 +1,16 @@
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\obj\Debug\Parents_Interface.csprojAssemblyReference.cache
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\obj\Debug\Parents_Interface.csproj.GenerateResource.cache
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\obj\Debug\Parents_Interface.csproj.CoreCompileInputs.cache
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\bin\Debug\Parents_Interface.pdb
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\obj\Debug\Parent_Interface.Properties.Resources.resources
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\obj\Debug\Parents_Interface.pdb
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\obj\Debug\Tutor_Student_Interface.ParentForm1.resources
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\obj\Debug\Tutor_Student_Interface.ParentForm2.resources
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\obj\Debug\Tutor_Student_Interface.ParentForm3.resources
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\obj\Debug\Tutor_Student_Interface.ParentForm4.resources
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\obj\Debug\Tutor_Student_Interface.ParentForm5.resources
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\obj\Debug\Tutor_Student_Interface.ParentForm6.resources
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\obj\Debug\Tutor_Student_Interface.ParentForm7.resources
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\bin\Debug\Parents_Interface.exe.config
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\bin\Debug\Parents_Interface.exe
+E:\The Hidden CobRa\Programming World\Programming Language\C# Programming\Project with C#\TutorsPoint\interfaceDesign\obj\Debug\Parents_Interface.exe
